@@ -10,9 +10,23 @@
 display: flex;
 justify-content: space-between;
 color: white;
+
 }
 
 .nav{
   display: flex;
   gap: .5em;
+}
+
+.help{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  height: 80vh;
+  justify-content: center;
+}
+
+p {
+  text-align: center;
+  font-size: .8rem;
 }
